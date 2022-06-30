@@ -1,0 +1,108 @@
+body,td,th {
+font-family: 'Montserrat', sans-serif; font-size: 14px;
+ color: #000000;
+}
+body {
+ margin-left: 0px;
+ margin-top: 0px;
+ margin-right: 0px;
+ margin-bottom: 0px;
+}
+.pad
+{
+padding-left:10px;
+}
+a:link {
+ color: #000000;
+ text-decoration: none;
+}
+a:visited {
+ text-decoration: none;
+ color: #000000;
+}
+a:hover {
+ text-decoration: underline;
+ color: #000000;
+}
+a:active {
+ text-decoration: none;
+ color: #000000;
+}
+.rightsi {
+    line-height: 33px !important;
+}
+li{
+    font-family: 'Montserrat', sans-serif;
+    line-height: 28px;
+}
+.socialic {
+    margin: 8px;
+}
+i.fa.fa-facebook.socialic, i.fa.fa-linkedin.socialic, i.fa.fa-twitter.socialic, i.fa.fa-github.socialic {
+    font-size: 20px;
+    background: black;
+    padding: 12px 15px;
+    border-radius: 50%;
+    color: wheat;
+}
+table.tableedu th {
+    background: black;
+    color: white;
+    padding: 8px 25px;
+}
+table.tableedu td {
+    padding: 15px 32px;
+    text-align: center;
+    font-size: 13px;
+}
+.bordr {
+    border-bottom: 4px double !important;
+}
+table.maintble {
+    box-shadow: -1px 28px 31px 1px #a7a7a7;
+}
+body {
+    background: #f8f8f8;
+}
+span.tagdesign {
+    background: black;
+    color: #fff;
+    padding: 3px 14px;
+    border-radius: 7px;
+}
+h4.headcont {
+    margin: 2px 1px;
+}
+table.persdes td {
+    border: 1px solid;
+    padding: 11px 41px;
+}
+table.persdes td:hover {
+    background: black;
+    color: white;
+}
+table.tableedu td:hover {
+  background: #00d2ff;
+}
+.declareation {
+	background: #e6e6e6;
+	padding: 14px;
+}
+.persdes {
+	margin: 20px 100px;
+	box-shadow: 1px 2px 15px -3px #606060;
+}
+.portfoliobutton {
+  background: black;
+  color: #fff;
+  padding: 10px 17px;
+  border: 1px solid;
+  font-family: inherit;
+  border-radius: 19px;
+  cursor: inherit;
+}
+body {
+    background-image: url('https://wallpapercave.com/wp/wp7447260.png');
+    background-size: cover;
+    background-position: -225px 1px;
+}
