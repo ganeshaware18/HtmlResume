@@ -60,6 +60,7 @@ table.tableedu td {
 }
 table.maintble {
     box-shadow: -1px 28px 31px 1px #a7a7a7;
+   border:4px double !important;
 }
 body {
     background: #f8f8f8;
