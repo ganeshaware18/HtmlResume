@@ -46,9 +46,9 @@ i.fa.fa-facebook.socialic, i.fa.fa-linkedin.socialic, i.fa.fa-twitter.socialic, 
     color: wheat;
 }
 table.tableedu th {
-    background: black;
-    color: white;
-    padding: 8px 25px;
+	background: #00d2ff6e;
+	color: black;
+	
 }
 table.tableedu td {
     padding: 15px 32px;
@@ -60,7 +60,6 @@ table.tableedu td {
 }
 table.maintble {
     box-shadow: -1px 28px 31px 1px #a7a7a7;
-   border:4px double !important;
 }
 body {
     background: #f8f8f8;
@@ -106,4 +105,7 @@ body {
     background-image: url('https://wallpapercave.com/wp/wp7447260.png');
     background-size: cover;
     background-position: -225px 1px;
+}
+.certlink li a {
+	color: #0800ff;
 }
